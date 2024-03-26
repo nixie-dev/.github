@@ -46,6 +46,10 @@ git clone https://github.com/nixie-dev/nixie
 nix-shell /path/to/cloned/nixie/shell.nix
 ```
 
+---
+
+And finally, tell everyone your project is now [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
+
 While it is possible to build Nixie directly from this repository, the resulting binary still requires Nix to be available on setup.
 
 Once you have acquired Nixie, simply run `nixie` to automatically configure the repository you're in.
